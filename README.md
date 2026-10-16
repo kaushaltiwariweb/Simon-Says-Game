@@ -31,6 +31,16 @@ An interactive, responsive, memory-based web game built using **HTML5**, **CSS3*
 
 ---
 
+## 📖 How to Play
+
+1. **Start Game:** Press any key on your keyboard to initiate Level 1.
+2. **Watch the Pattern:** The game will automatically flash one colored box (Red, Yellow, Green, or Purple).
+3. **Repeat the Pattern:** Click on the matching colored box.
+4. **Advance Levels:** Each correct round adds one new color to the sequence. Repeat the full pattern from memory.
+5. **Game Over:** Clicking an incorrect color in the sequence ends the game. Press any key to reset and try again!
+
+---
+
 ## 📁 Project Structure
 
 ```text
