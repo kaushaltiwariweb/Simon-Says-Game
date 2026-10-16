@@ -6,7 +6,7 @@ An interactive, responsive, memory-based web game built using **HTML5**, **CSS3*
 
 ## ⚡ Live Demo
 
-👉 **[Click Here to Play Live](https://YOUR_GITHUB_USERNAME.github.io/simon-says-game/)**
+👉 **[Click Here to Play Live](https://kaushaltiwariweb.github.io/Simon-Says-Game/)**
 
 ---
 
