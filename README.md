@@ -6,7 +6,6 @@ An interactive, responsive, memory-based web game built using HTML5, CSS3, and J
 
 Live Demo: Click Here to Play 
 
-Repository: GitHub Source Code
 
 🚀 Key Features
 
@@ -46,7 +45,6 @@ simon-says-game/
 └── README.md        # Comprehensive project documentation
 
 
-
 🕹️ How to Play
 
 Start Game: Press any key on your keyboard to initiate Level 1.
@@ -58,27 +56,6 @@ Repeat the Pattern: Click on the matching colored box.
 Advance Levels: Each round adds a new random color to the end of the previous sequence. Repeat the full sequence correctly.
 
 Game Over: If you click the wrong color in the sequence, the background will flash red, your final score will display, and the highest score updates if beaten. Press any key to start fresh!
-
-💻 Local Installation & Setup
-
-To run this project locally on your machine:
-
-Clone the Repository:
-
-git clone https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME.git
-
-
-
-Navigate to Project Directory:
-
-cd YOUR_REPO_NAME
-
-
-
-Run the Game:
-
-Double-click index.html to open it directly in any browser.
-
 Or use the VS Code extension Live Server to preview locally.
 
 📝 License
